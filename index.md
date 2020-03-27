@@ -10,7 +10,9 @@ The best way to avoid contracting COVID-19 is to stay inside your own home and a
 
 With the rapid spread of COVID-19, hospitals are facing two immediate shortages to treat patients: the available number of ICU beds, and the available number of mechanical ventilators. A large number of people who contract COVID-19 will require hospitalization, and the likelyhood you will need to go to the hospital increases with age.
 
-If infected, current estimates indicate that 16.6% of people in their 60s, 24.3% of people in their 70s, and 27.3% of people above 80 will require hospitalization. Estimates also show that 30% of those who require hospitalization for COVID-19 will need to be treated with oxygen using a ventilator. [^imperial] As hosptials continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you.
+If infected, current estimates indicate that 16.6% of people above 60, 24.3% of people above 70, and 27.3% of people above 80 will require hospitalization. Estimates also show that 30% of those who require hospitalization for COVID-19 will need to be treated with oxygen using a ventilator.[^imperial] 
+
+As hosptials continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you.
 
 ## How
 
