@@ -12,7 +12,7 @@ With the rapid spread of COVID-19, hospitals are facing two immediate shortages 
 
 If infected, current estimates indicate that 16.6% of people above 60, 24.3% of people above 70, and 27.3% of people above 80 will require hospitalization. Estimates also show that 30% of those hospitalized will need to be treated with oxygen using a ventilator.[^imperial] 
 
-As hosptials continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you.
+As hosptials continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you if you get sick.
 
 ## How
 
