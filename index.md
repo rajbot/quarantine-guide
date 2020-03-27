@@ -31,7 +31,7 @@ Coronavirus is very transmissible, and it is possible to contract the virus afte
 
 Avoid touching your face, especially if you are outside your house. Wearing gloves and a mask or scarf will help keep you from touching your face.
 
-### Other hand hygene
+### Other hand hygiene
 Frequent handwashing will leave your hands dry. At least once a day, use hand lotion to moisturize your hands so your skin does not crack and bleed. Also, be sure to keep your fingernails trimmed.
 
 
