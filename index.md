@@ -27,12 +27,12 @@ This video demonstrates proper handwashing technique:
 After you have finished washing, make sure you completely dry your hands with a clean towel.
 
 ### Avoid touching your face
-Coronavirus is very transmissible, and it is possible to contract the virus after touching a contaminated surface and then touching your eyes, nose, or mouth.[^surface] Make sure to you wash your hands before eating and before preparing food, but also make sure to wash them anytime you touch a surface someone else might have touched or coughed on. Be sure to keep your fingernails trimmed.
+Coronavirus is very transmissible, and it is possible to contract the virus after touching a contaminated surface and then touching your eyes, nose, or mouth.[^surface] Make sure to you wash your hands before eating and before preparing food, but also make sure to wash them anytime you touch a surface someone else might have touched or coughed on.
 
 Avoid touching your face, especially if you are outside your house. Wearing gloves and a mask or scarf will help keep you from touching your face.
 
-### Hand lotion is necessary
-Frequent handwashing will leave your hands dry. At least once a day, use hand lotion to moisturize your hands so your skin does not crack and bleed.
+### Other hand hygene
+Frequent handwashing will leave your hands dry. At least once a day, use hand lotion to moisturize your hands so your skin does not crack and bleed. Also, be sure to keep your fingernails trimmed.
 
 
 ## How
