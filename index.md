@@ -19,7 +19,7 @@ As hosptials continue to fill with COVID-19 patients, there is chance that there
 ## Staying healthy
 
 ### Handwashing
-Fortunately, regular soap and water is very effective at breaking down coronavirus.[^soapvideo] Washing your hands frequently is an important way to stay healthy, but you will need to wash your hands for at least twenty seconds, which might be longer than you are used to Also, you will need to use a six-step handwashing technique to make sure you get all the parts: palms, backs, between fingers, thumbs, knuckles, and nails.
+Fortunately, regular soap and water is very effective at breaking down coronavirus.[^soapvideo] Washing your hands frequently is an important way to stay healthy, but you will need to wash your hands for at least twenty seconds, which might be longer than you are used to. Also, you will need to use a six-step handwashing technique to make sure you get all the parts: palms, backs, between fingers, thumbs, knuckles, and nails.
 
 This video demonstrates proper handwashing technique:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HbExiHlN_Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
