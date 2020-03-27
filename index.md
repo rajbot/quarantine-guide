@@ -27,9 +27,9 @@ This video demonstrates proper handwashing technique:
 
 After you have finished washing, make sure you completely dry your hands with a clean towel.
 
-Coronavirus is very transmissible, and it is possible to contract the virus after touching a contaminated surface and then touching your face. Make sure to you wash your hands before eating and before preparing food, but also make sure to wash them anytime you touch a surface someone else might have touched or coughed on. Be sure to keep your fingernails trimmed.
+Coronavirus is very transmissible, and it is possible to contract the virus after touching a contaminated surface and then touching your eyes, nose, or mouth.^[surface] Make sure to you wash your hands before eating and before preparing food, but also make sure to wash them anytime you touch a surface someone else might have touched or coughed on. Be sure to keep your fingernails trimmed.
 
-Avoid touching your face, especially if you are outside your house. Wearing gloves and a mask or scarf will help keep you from touching your face =.
+Avoid touching your face, especially if you are outside your house. Wearing gloves and a mask or scarf will help keep you from touching your face`.
 
 
 ## How
@@ -44,3 +44,5 @@ Avoid touching your face, especially if you are outside your house. Wearing glov
 [^imperial]: Imperial College COVID-19 Response Team, _[Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)_, 16 March 2020, page 5.
 
 [^soapvideo]: Vox Media, _[How soap kills the coronavirus](https://www.youtube.com/watch?v=-LKVUarhtvE)_, 18 March 2020.
+
+[^surface]: NIH, _[New coronavirus stable for hours on surfaces](https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces)_, 17 March 2020
