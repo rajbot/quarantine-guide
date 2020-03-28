@@ -64,7 +64,13 @@ Indoor surfaces that should be disinfected daily include phones, remotes, light 
 
 ### Gloves
 
-You should wear gloves when disinfecting surfaces. Reusable gloves can be left outside for three days before being used again, and gloves used for disinfecting should not be used for any other purpose. If using disposable gloves, do not reuse them. Here is a video on how to properly remove disposable gloves.
+You should wear gloves when disinfecting surfaces or food. Be careful not to touch clean surfaces with contaminated gloves. Before disinfecting, you will want to clear a path to your trash or laundry area so you don't need to touch doorknobs. Gloves used for disinfecting should not be used for any other purpose.
+
+- Disposable gloves should be thrown away and not reused.
+- Cotton gloves can be washed after use.
+- Reusable rubber gloves can be left outside for three days before being used again.
+
+Here is a video on how to properly remove disposable gloves.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dyLEd9cng5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Remember to always wash your hands afterwards.
 
