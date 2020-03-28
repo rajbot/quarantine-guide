@@ -75,12 +75,12 @@ Assume all deliveries and mail are contaminated, and wear gloves when handling t
 If you are using reusable gloves, leave the gloves outside for 3 days before using them again. Wash your hands with soap and water after removing gloves.
 
 
-## How
+### Disinfecting Food
 
-### Staying at home
+Thankfully, COVID-19 is not thought to be transmitted via food.[cite] However, the virus can live on the surface of food or packaging, so groceries and takeout food will have to be disinfected. This video is a good overview, so please watch it first:
 
-### Deliveries
-### Maintaining Health
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sjDuwc9KBps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## References
 
