@@ -50,12 +50,21 @@ The most common household cleaners that are effective are listed below. Pay care
 | Cleaner | Contact Time |
 |-------|--------|
 | Lysol Disinfectant Spray | 10 minutes |
-| Lysol® Disinfecting Wipes | 10 minutes |
+| Lysol Disinfecting Wipes | 10 minutes |
 | Clorox Bleach (not "splashless bleach") | 10 minutes |
 | Isopropyl alcohol (at least 70% strength) | 30 seconds |
 | Hydrogen Peroxide (3%) | 1 minute |
 
-If a surface is dirty clean it with soap and water first. Note that bleach exipires in one year, and hydrogen peroxide expires in 6mo after opening.
+
+If a surface is dirty clean it with soap and water first. Note that bleach exipires in one year, and hydrogen peroxide expires in 6 months after opening and needs to be kept in a brown bottle because it breaks down in sunlight. 
+
+Hydrogen Peroxide can be carefully poured into a spray bottle and used to spray outdoor surfaces without wiping them down afterwards, since it decomposes into water and oxygen. However, the surface should not be touched until it is dry.
+
+Indoor surfaces that should be disinfected daily include phones, remotes, light switches, tables, faucets, doorknobs, sinks, and toilets. Outdoor surfaces include doorknobs, doorbells, and handrails. Apple provides [guidance for cleaning iPhones](https://support.apple.com/en-us/HT207123) using alcohol wipes.[^apple]
+
+### Gloves
+
+You should wear gloves when disinfecting surfaces or receiving deliveries. 
 
 
 ## How
@@ -76,3 +85,5 @@ If a surface is dirty clean it with soap and water first. Note that bleach exipi
 [^epa]: EPA, _[Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)_, 26 March 2020.
 
 [^cdc]: CDC, _[Detailed Disinfection Guidance](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)_, 6 March 2020.
+
+[^apple]: Apple, _[Cleaning your iPhone](https://support.apple.com/en-us/HT207123)_, 9 March 2020
