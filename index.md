@@ -35,10 +35,29 @@ Avoid touching your face, especially if you are outside your house. Wearing glov
 Frequent handwashing will leave your hands dry. At least once a day, use hand lotion to moisturize your hands so your skin does not crack and bleed. Also, be sure to keep your fingernails trimmed.
 
 
+## Disinfecting
+
+Disinfecting frequently-touched surfaces, deliveries, mail, and groceries is important to keep yourself from being infected by surface contamination.
+
+### Disinfectants
+
+The EPA provides a list of disinfectants to use against the SARS-Cov-2 virus:
+https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2
+
+The most common household clearners that are effective against SARS-Cov-2 are:
+| Cleaner | Contact Time |
+--------------------------
+| Soap and Water | |
+| Lysol Disinfectant Spray | 10 minutes |
+| Bleach (not "splashless bleach") | 10 minutes |
+| Isopropyl alcohol (at least 70% strength) | |
+ 
+
+
 ## How
 
 ### Staying at home
-### Disinfecting
+
 ### Deliveries
 ### Maintaining Health
 
