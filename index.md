@@ -43,16 +43,19 @@ You will need to disinfect frequently-touched surfaces and anything that comes i
 
 ### Disinfectants to use
 
-The EPA provides a list of disinfectants to use against the SARS-Cov-2 virus.[^epa] The most common household clearners that are effective are listed below. Pay care to allow the cleaner to sit on the surface for the specified amount of time before wiping it off. If you don't let the cleaner sit long enough, you risk spreading the virus from one surface to another when you wipe it off.
+The EPA provides a [list of disinfectants to use](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) against the SARS-Cov-2 virus.[^epa] The CDC provides a [detailed guide](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) on how to disinfect surfaces.[^cdc]
+
+The most common household cleaners that are effective are listed below. Pay care to allow the cleaner to sit on the surface for the specified amount of time before wiping it off. If you don't let the cleaner sit long enough, you risk spreading the virus from one surface to another when you wipe it off.
  
 | Cleaner | Contact Time |
 |-------|--------|
-| Soap and Water | 20 seconds |
 | Lysol Disinfectant Spray | 10 minutes |
+| Lysol® Disinfecting Wipes | 10 minutes |
 | Clorox Bleach (not "splashless bleach") | 10 minutes |
 | Isopropyl alcohol (at least 70% strength) | 30 seconds |
 | Hydrogen Peroxide (3%) | 1 minute |
 
+If a surface is dirty clean it with soap and water first. Note that bleach exipires in one year, and hydrogen peroxide expires in 6mo after opening.
 
 
 ## How
@@ -68,6 +71,8 @@ The EPA provides a list of disinfectants to use against the SARS-Cov-2 virus.[^e
 
 [^soapvideo]: Vox Media, _[How soap kills the coronavirus](https://www.youtube.com/watch?v=-LKVUarhtvE)_, 18 March 2020.
 
-[^surface]: NIH, _[New coronavirus stable for hours on surfaces](https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces)_, 17 March 2020
+[^surface]: NIH, _[New coronavirus stable for hours on surfaces](https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces)_, 17 March 2020.
 
-[^epa]: EPA, _[Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)_, 26 March 2020
+[^epa]: EPA, _[Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)_, 26 March 2020.
+
+[^cdc]: CDC, _[Detailed Disinfection Guidance](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)_, 6 March 2020.
