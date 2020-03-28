@@ -15,6 +15,7 @@ If infected, current estimates indicate that 16.6% of people above 60, 24.3% of 
 
 As hosptials continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you if you get sick.
 
+----
 
 ## Staying healthy
 
@@ -34,22 +35,20 @@ Avoid touching your face, especially if you are outside your house. Wearing glov
 ### Other hand hygiene
 Frequent handwashing will leave your hands dry. At least once a day, use hand lotion to moisturize your hands so your skin does not crack and bleed. Also, be sure to keep your fingernails trimmed.
 
+----
 
 ## Disinfecting
 
-Disinfecting frequently-touched surfaces, deliveries, mail, and groceries is important to keep yourself from being infected by surface contamination.
+You will need to disinfect frequently-touched surfaces and anything that comes into your house, in order to keep yourself from being infected. Disinfecting deliveries and groceries is quite time-consuming, but easier when you get the hang of it.
 
-### Disinfectants
+### Disinfectants to use
 
-The EPA provides a list of disinfectants to use against the SARS-Cov-2 virus:
-https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2
-
-The most common household clearners that are effective against SARS-Cov-2 are:
+The EPA provides a list of disinfectants to use against the SARS-Cov-2 virus.[^epa] The most common household clearners that are effective are listed below. Pay care to allow the cleaner to sit on the surface for the specified amount of time before wiping it off. If you don't let the cleaner sit long enough, you risk spreading the virus from one surface to another when you wipe it off.
  
 | Cleaner | Contact Time |
 |-------|--------|
 | Soap and Water | 20 seconds |
-| Lysol Disinfectant Spray| 10 minutes |
+| Lysol Disinfectant Spray | 10 minutes |
 | Clorox Bleach (not "splashless bleach") | 10 minutes |
 | Isopropyl alcohol (at least 70% strength) | 30 seconds |
 | Hydrogen Peroxide (3%) | 1 minute |
@@ -70,3 +69,5 @@ The most common household clearners that are effective against SARS-Cov-2 are:
 [^soapvideo]: Vox Media, _[How soap kills the coronavirus](https://www.youtube.com/watch?v=-LKVUarhtvE)_, 18 March 2020.
 
 [^surface]: NIH, _[New coronavirus stable for hours on surfaces](https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces)_, 17 March 2020
+
+[^epa]: EPA, _[Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)_, 26 March 2020
