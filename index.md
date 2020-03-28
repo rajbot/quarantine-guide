@@ -94,4 +94,6 @@ If you are using reusable gloves, leave the gloves outside for 3 days before usi
 
 [^cdc]: CDC, _[Detailed Disinfection Guidance](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html)_, 6 March 2020.
 
-[^apple]: Apple, _[Cleaning your iPhone](https://support.apple.com/en-us/HT207123)_, 9 March 2020
+[^apple]: Apple, _[Cleaning your iPhone](https://support.apple.com/en-us/HT207123)_, 9 March 2020.
+
+[^nejm]: Doremalen, et al. _[Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)_, NEJM, 17 March 2020.
