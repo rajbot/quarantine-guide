@@ -79,12 +79,14 @@ Remember to always wash your hands afterwards.
 
 Assume all deliveries and mail are contaminated, and wear gloves when handling them. SARS-CoV-2 can survive on cardboard for 24 hours.[^nejm] If possible, carry non-perishable packages to an isolated area (garage, backyard) without bringing them though your home, and leave them there for 2 days before handling them further. For packages that need to be opened immediatey, spray or wipe the package with disinfectant before handling it. If you can, open the package outside and only bring the contents into your home. Disinfect the contents, as well as the surface you placed them on.
 
-If you are using reusable gloves, leave the gloves outside for 3 days before using them again. Wash your hands with soap and water after removing gloves.
+Alghough disposable gloves work, having a supply of reusable gloves near your door for handling deliveries is useful. You can use cotton gloves, which can we washed in the laundry, or rubber gloves, which can be left outside for 3 days before being used again. 
+
+To avoid interacting with other people, have the deliveries left at your door. Before putting on your gloves to get the delivery, make sure there is a clear path with no closed doors between the package, the area where the package will be decontaminated, the garbage, the place where you will take off gloves, and the place where you will wash your hands. After touching the delivery, be careful to not contaminate other surfaces with your hands. Wash your hands with soap and water after removing gloves. Use a fresh pair of gloves for handling the next delivery.
 
 
 ### Disinfecting Food
 
-Thankfully, COVID-19 is not thought to be transmitted via food.[cite] However, the virus can live on the surface of food or packaging, so groceries and takeout food will have to be disinfected. This video is a good overview, so please watch it first:
+Thankfully, COVID-19 is not thought to be transmitted via food.[^foodsaftey] However, the virus can live on the surface of food or packaging, so groceries and takeout food will have to be disinfected. This video is a good overview, so please watch it first:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sjDuwc9KBps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -103,3 +105,5 @@ Thankfully, COVID-19 is not thought to be transmitted via food.[cite] However, t
 [^apple]: Apple, _[Cleaning your iPhone](https://support.apple.com/en-us/HT207123)_, 9 March 2020.
 
 [^nejm]: Doremalen, et al. _[Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)_, NEJM, 17 March 2020.
+
+[^foodsaftey]: López-Alt, J. Kenji. _[Food Safety and Coronavirus: A Comprehensive Guide](https://www.seriouseats.com/2020/03/food-safety-and-coronavirus-a-comprehensive-guide.html), 27 March 2020.
