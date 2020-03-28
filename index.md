@@ -68,6 +68,12 @@ You should wear gloves when disinfecting surfaces. Reusable gloves can be left o
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dyLEd9cng5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Remember to always wash your hands afterwards.
 
+### Deliveries
+
+Assume all deliveries and mail are contaminated, and wear gloves when handling them. SARS-CoV-2 can survive on cardboard for 24 hours.[^nejm] If possible, carry non-perishable packages to an isolated area (garage, backyard) without bringing them though your home, and leave them there for 2 days before handling them further. For packages that need to be opened immediatey, spray or wipe the package with disinfectant before handling it. If you can, open the package outside and only bring the contents into your home. Disinfect the contents, as well as the surface you placed them on.
+
+If you are using reusable gloves, leave the gloves outside for 3 days before using them again. Wash your hands with soap and water after removing gloves.
+
 
 ## How
 
