@@ -45,13 +45,15 @@ The EPA provides a list of disinfectants to use against the SARS-Cov-2 virus:
 https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2
 
 The most common household clearners that are effective against SARS-Cov-2 are:
-| Cleaner | Contact Time |
---------------------------
-| Soap and Water | |
-| Lysol Disinfectant Spray | 10 minutes |
-| Bleach (not "splashless bleach") | 10 minutes |
-| Isopropyl alcohol (at least 70% strength) | |
  
+| Cleaner | Contact Time |
+|-------|--------|
+| Soap and Water | 20 seconds |
+| Lysol Disinfectant Spray| 10 minutes |
+| Clorox Bleach (not "splashless bleach") | 10 minutes |
+| Isopropyl alcohol (at least 70% strength) | 30 seconds |
+| Hydrogen Peroxide (3%) | 1 minute |
+
 
 
 ## How
