@@ -81,7 +81,7 @@ Here is a video on how to properly remove disposable gloves.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dyLEd9cng5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Remember to always wash your hands afterwards.
 
-### Deliveries
+### Handling Deliveries
 
 Assume all deliveries and mail are contaminated, and wear gloves when handling them. SARS-CoV-2 can survive on cardboard for 24 hours.[^nejm] If possible, carry non-perishable packages to an isolated area (garage, backyard) without bringing them though your home, and leave them there for 2 days before handling them further. For packages that need to be opened immediatey, spray or wipe the package with disinfectant before handling it. If you can, open the package outside and only bring the contents into your home. Disinfect the contents, as well as the surface you placed them on.
 
@@ -110,11 +110,17 @@ If you would like to wash produce with diluted chlorine bleach instead of dish s
 
 ### Tips for Easier Food Handling
 
-- Shelf-stable food, and fruits like apples, oranges, and bananas can also be left in your garage for several days without refrigeration, before bringing them into your house for washing. Since SARS-CoV-2 only survives on porous surfaces for 24 hours[^surface], food that is left to sit for a few days should be safer to handle.
-- Fruits with thick skins that you peel are good, since any dish soap residue after washing will only be on the peel.
-- Consider switching to frozen vegitables instead of fresh ones, since bags of frozen food can be disinfected more easily before being put away.
-- Consider switching to cooked foods only, and foregoing salads for now. Raw, leafy greens are particularly hard to disinfect.
+Shelf-stable food, and fruits like apples, oranges, and bananas can also be left in your garage for several days without refrigeration, before bringing them into your house for washing. Since SARS-CoV-2 only survives on porous surfaces for 24 hours[^surface], food that is left to sit for a few days should be safer to handle.
 
+Fruits with thick skins that you peel are good, since any dish soap residue after washing will only be on the peel.
+
+Consider switching to frozen vegitables instead of fresh ones, since bags of frozen food can be disinfected more easily before being put away.
+
+Consider switching to cooked foods only, and foregoing salads for now. Raw, leafy greens are particularly hard to disinfect.
+
+----
+
+## Food Deliveries
 
 ----
 
