@@ -99,15 +99,22 @@ Thankfully, COVID-19 is not thought to be transmitted via food.[^foodsaftey] How
 
 As this video points out, no one over 60 should be going to the grocery store (or any store) right now.
 
-One more thing to note: After touching packaging, consider that your hands are also now contaminated. So in the video, after opening a cereal box and pulling out the bag inside, that bag would also need to be disinfected. A safer way to handle the cereal box is to leave it in the garage or outside for a day before bring them into your house, since the virus does not survive on cardboard for more than 24 hours.[^surface]
-
-Fruits like apples, oranges, and bananas can also be left in your garage for several days without refrigeration, before bringing them into your house for washing. Fruits with thick skins that you peel are good, since any dish soap residue after washing will only be on the peel.
+One more thing to note: After touching packaging, consider that your hands are also now contaminated. So in the video, after opening a cereal box and pulling out the bag inside, that bag would also need to be disinfected.
 
 Washing fruit and vegitables with dish soap and water is also recommended in this [LA Times article](https://www.latimes.com/food/story/2020-03-16/how-to-wash-fresh-vegetables-fruits-during-coronavirus-crisis), which also provides specific guidance for washing many kinds of fruits and vegitables[^latimes]:
 
 > If you would prefer more extensive vegetable cleaning, here is what food scientist Harold McGee wrote in his book “On Food and Cooking”: “Soapy water and commercial produce washes are more effective than water alone. Washing can reduce microbial populations a hundredfold, but it’s impossible to eliminate all microbes from uncooked lettuce and other produce — they can evade even heavily chlorinated water by hiding in microscopic pores and cracks in the plant tissue. Raw salads are therefore not advised for people who are especially vulnerable to infections. Once fruits and vegetables are cut up, they should be kept refrigerated and used as soon as possible.”
 
 If you would like to wash produce with diluted chlorine bleach instead of dish soap, [this guide from the AgCenter at LSU](https://www.lsu.edu/agriculture/plant/extension/hcpl-publications/8_Pub.3448-WashWaterChlorineDisinfection.pdf) provides instructions.[^lsu]
+
+
+### Tips for Easier Food Handling
+
+- Shelf-stable food, and fruits like apples, oranges, and bananas can also be left in your garage for several days without refrigeration, before bringing them into your house for washing. Since SARS-CoV-2 only survives on porous surfaces for 24 hours[^surface], food that is left to sit for a few days should be safer to handle.
+- Fruits with thick skins that you peel are good, since any dish soap residue after washing will only be on the peel.
+- Consider switching to frozen vegitables instead of fresh ones, since bags of frozen food can be disinfected more easily before being put away.
+- Consider switching to cooked foods only, and foregoing salads for now. Raw, leafy greens are particularly hard to disinfect.
+
 
 ----
 
