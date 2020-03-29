@@ -35,6 +35,12 @@ Avoid touching your face, especially if you are outside your house. Wearing glov
 ### Other hand hygiene
 Frequent handwashing will leave your hands dry. At least once a day, use hand lotion to moisturize your hands so your skin does not crack and bleed. Also, be sure to keep your fingernails trimmed.
 
+### Monitoring baseline metrics
+
+There are a couple tools that are useful to have to monitor your health. The first is a thermometer. Forehead thermometers or in-ear thermometers are quick and work well. It is important to know what your baseline temperature is, so that if you start to feel sick, you will know what temperature is normal for you. Check your temperature regularly and write it down in a log.
+
+Another tool that is useful to have is a pulse oximeter. These are inexpensive tools that clip to your fingertip and measure your blood oxygen level. An oxygen saturation level of 95 and above is considered normal for most people. It is good to know what level is normal for you. In case you get sick and have difficulty breathing, a pulse oximeter can let you know if your blood oxygen level is too low.
+
 ----
 
 ## Disinfecting
