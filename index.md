@@ -96,6 +96,20 @@ Thankfully, COVID-19 is not thought to be transmitted via food.[^foodsaftey] How
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sjDuwc9KBps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+As this video points out, no one over 60 should be going to the grocery store (or any store) right now.
+
+One thing to note: After touching packaging like a cereal box, consider that your hands are also now contaminated. So in the video, after opening a cereal box and pulling out the bag inside, that bag would also need to be disinfected. A safer way to handle the cereal box is to leave it in the garage or outside for 24 hours before handling it further.
+
+Fruits like apples, oranges, and bananas can also be left in your garage for several days without refrigeration, before bringing them into your house for washing. Washing fruit and vegitables with dish soap and water is also recommended in this [LA Times article](https://www.latimes.com/food/story/2020-03-16/how-to-wash-fresh-vegetables-fruits-during-coronavirus-crisis), which provides specific guidance for washing many kinds of fruits and vegitables[^latimes]:
+
+> If you would prefer more extensive vegetable cleaning, here is what food scientist Harold McGee wrote in his book “On Food and Cooking”: “Soapy water and commercial produce washes are more effective than water alone. Washing can reduce microbial populations a hundredfold, but it’s impossible to eliminate all microbes from uncooked lettuce and other produce — they can evade even heavily chlorinated water by hiding in microscopic pores and cracks in the plant tissue. Raw salads are therefore not advised for people who are especially vulnerable to infections. Once fruits and vegetables are cut up, they should be kept refrigerated and used as soon as possible.”
+
+----
+
+## Avoiding Scams
+
+----
+
 ## References
 
 [^imperial]: Imperial College COVID-19 Response Team, _[Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)_, 16 March 2020, page 5.
@@ -113,3 +127,5 @@ Thankfully, COVID-19 is not thought to be transmitted via food.[^foodsaftey] How
 [^nejm]: Doremalen, et al. _[Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)_, NEJM, 17 March 2020.
 
 [^foodsaftey]: López-Alt, J. Kenji. _[Food Safety and Coronavirus: A Comprehensive Guide](https://www.seriouseats.com/2020/03/food-safety-and-coronavirus-a-comprehensive-guide.html), 27 March 2020.
+
+[^latimes]: Ko, Genevieve. _[How to wash fruits and vegetables during the coronavirus crisis](https://www.latimes.com/food/story/2020-03-16/how-to-wash-fresh-vegetables-fruits-during-coronavirus-crisis)_, 16 March 2020.
