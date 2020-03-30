@@ -109,8 +109,6 @@ Washing fruit and vegitables with dish soap and water is also recommended in thi
 
 > If you would prefer more extensive vegetable cleaning, here is what food scientist Harold McGee wrote in his book “On Food and Cooking”: “Soapy water and commercial produce washes are more effective than water alone. Washing can reduce microbial populations a hundredfold, but it’s impossible to eliminate all microbes from uncooked lettuce and other produce — they can evade even heavily chlorinated water by hiding in microscopic pores and cracks in the plant tissue. Raw salads are therefore not advised for people who are especially vulnerable to infections. Once fruits and vegetables are cut up, they should be kept refrigerated and used as soon as possible.”
 
-If you would like to wash produce with diluted chlorine bleach instead of dish soap, [this guide from the AgCenter at LSU](https://www.lsu.edu/agriculture/plant/extension/hcpl-publications/8_Pub.3448-WashWaterChlorineDisinfection.pdf) provides instructions.[^lsu]
-
 
 ### Tips for Easier Food Handling
 
