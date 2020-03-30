@@ -126,9 +126,33 @@ Consider switching to cooked foods only, and foregoing salads for now. Raw, leaf
 
 ## Food Deliveries
 
+The director of the World Health Organization has stated that if you are over 60 of have underlying medical conditions, you should avoid the grocery store and all other crowded areas.[^who]
+
+In order to minimize your contact with other people, it is best if you arrange for someone to deliver groceries and other supplies for you.
+
+You can also have groceries and takeout food delivered to your house. Be sure to disinfect deliveries and reheat takeout food as described above. Prepay by credit card and have the delivery person leave food at your door.
+
+### CSA Boxes and Mealkits
+
+Many community-supported agriculture (CSA) services are still delivering fresh produce on a weekly schedule. This is a good way to have get a regular delivery of fresh food. CSA boxes are delivered from farms, not grocery stores, so the food has probably been touched by fewer people.
+
+Mealkit services like Sunbasket and Blue Apron are also delivering nationwide. These are another good source for regular, weekly food deliveries.
+
+### Grocery Delivery Services
+
+Instacart offers deliveries from many stores, including Costco, Safeway, Target, and many local grocers. Instacart is currently seeing large demand, and are often not able to offer same day delivery. It is good to plan for deliveries to take several days, and some items might be out of stock and not delivered.
+
+Amazon offers same-day or next-day delivery through their Prime Now service, from both Amazon warehouses, as well as Whole Foods. Their service is also currently overloaded. You will need to check several times to find an available delivery slot.
+
 ----
 
 ## Avoiding Scams
+
+There has been a rise in door-to-door and online scams targeting the elderly.
+
+- If someone knocks at your door to offer testing for COVID-19, do not let them in, and call the police.[^bostonglobe]
+- If someone calls you offering you a COVID-19 test, it is a scam. Do not give them money or personal info.[^bostonglobe]
+- [List of tips](https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing) from the Fedral Trade Commission.[^ftc]
 
 ----
 
@@ -153,3 +177,9 @@ Consider switching to cooked foods only, and foregoing salads for now. Raw, leaf
 [^latimes]: Ko, Genevieve. _[How to wash fruits and vegetables during the coronavirus crisis](https://www.latimes.com/food/story/2020-03-16/how-to-wash-fresh-vegetables-fruits-during-coronavirus-crisis)_, 16 March 2020.
 
 [^lsu]: Ivey et al., _[Wash Water Chlorine Disinfection](https://www.lsu.edu/agriculture/plant/extension/hcpl-publications/8_Pub.3448-WashWaterChlorineDisinfection.pdf)_, LSU, Sept 2015.
+
+[^bostonglobe]: Stanton et al., _[Authorities warn elderly about COVID-19 scams](https://www.bostonglobe.com/2020/03/25/metro/authorities-warn-elderly-about-covid-19-scams/)_, Boston Globe, 24 March 2020
+
+[^ftc]: FTC, _[Avoid Coronavirus Scams](https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing)_.
+
+[^who]: WHO, _[WHO Director-General's opening remarks at the media briefing on COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---28-february-2020)_, 28 Feb 2020
