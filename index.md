@@ -128,7 +128,7 @@ The director of the World Health Organization has stated that if you are over 60
 
 In order to minimize your contact with other people, it is best if you arrange for someone to deliver groceries and other supplies for you.
 
-You can also have groceries and takeout food delivered to your house. Be sure to disinfect deliveries and reheat takeout food as described above. Prepay by credit card and have the delivery person leave food at your door.
+You can also have groceries and takeout food delivered to your house. Be sure to disinfect deliveries and reheat takeout food as described above. If you can, prepay by credit card and have the delivery person leave food at your door.
 
 ### CSA Boxes and Mealkits
 
@@ -153,6 +153,15 @@ There has been a rise in door-to-door and online scams targeting the elderly.
 - [List of tips](https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing) from the Fedral Trade Commission.[^ftc]
 
 ----
+
+## Staying Fit at Home
+
+It is important to avoid going to the gym, and exercising in popular parks. However, it is important to get exercise and sunshine as often as you can. Consider walking in your own home or yard, online yoga and zumba classes, exercise DVDs, stretching at home, and Wii Fit as alternatives to going to a gym.
+
+While you are staying isolated in your own house, it is also important to keep in contact with other people. Arrange regular video calls with family and friends over FaceTime, Whatsapp, or Facebook Messenger. Having regular contact with other people is an important part to staying healthy.
+
+----
+
 
 ## References
 
