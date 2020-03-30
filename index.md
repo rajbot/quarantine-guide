@@ -11,11 +11,11 @@ Until the COVID-19 pandemic is under control, the best way to avoid contracting 
 
 [expand]
 
-With the rapid spread of COVID-19, hospitals are facing two immediate shortages to treat patients: the available number of ICU beds, and the available number of mechanical ventilators. A large number of people who contract COVID-19 will require hospitalization, and the likelyhood you will need to go to the hospital increases with age.
+With the rapid spread of COVID-19, hospitals are facing two immediate shortages to treat patients: the available number of ICU beds, and the available number of mechanical ventilators. A large number of people who contract COVID-19 will require hospitalization, and the likelihood you will need to go to the hospital increases with age.
 
 If infected, current estimates indicate that 16.6% of people above 60, 24.3% of people above 70, and 27.3% of people above 80 will require hospitalization. Estimates also show that 30% of those hospitalized will need to be treated with oxygen using a ventilator.[^imperial] 
 
-As hosptials continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you if you get sick.
+As hospitals continue to fill with COVID-19 patients, there is chance that there will not be an ICU bed or a ventilator for you if you get sick.
 
 [/expand]
 
@@ -49,7 +49,7 @@ Another tool that is useful to have is a pulse oximeter. These are inexpensive t
 
 ## Disinfecting
 
-You will need to disinfect frequently-touched surfaces and anything that comes into your house, in order to keep yourself from being infected. Disinfecting deliveries and groceries is quite time-consuming, but easier when you get the hang of it.
+You will need to disinfect frequently-touched surfaces and anything that comes into your house, in order to keep yourself from being infected. Disinfecting deliveries and groceries is time-consuming, but easier when you get the hang of it.
 
 ### Disinfectants to use
 
@@ -66,7 +66,7 @@ The most common household cleaners that are effective are listed below. Pay care
 | Hydrogen Peroxide (3%) | 1 minute |
 
 
-If a surface is dirty clean it with soap and water first. Note that bleach exipires in one year, and hydrogen peroxide expires in 6 months after opening and needs to be kept in a brown bottle because it breaks down in sunlight. 
+If a surface is dirty clean it with soap and water first. Note that bleach expires in one year, and hydrogen peroxide expires in 6 months after opening and needs to be kept in a brown bottle because it breaks down in sunlight. 
 
 Hydrogen Peroxide can be carefully poured into a spray bottle and used to spray outdoor surfaces without wiping them down afterwards, since it decomposes into water and oxygen. However, the surface should not be touched until it is dry.
 
