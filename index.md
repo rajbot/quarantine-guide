@@ -7,7 +7,7 @@ While COVID-19 is spreading rapidly, it is important for members of vulnerable g
 Until the COVID-19 pandemic is under control, the best way to avoid contracting COVID-19 is to stay inside your own home and avoiding interacting with people from outside of your household. This document contains guidelines and techniques for self-quarantine in your own home.
 
 
-## Why you need to stay at home
+**Why you need to stay at home**
 
 [expand]
 
