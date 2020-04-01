@@ -151,6 +151,10 @@ There has been a rise in door-to-door and online scams targeting the elderly.
 - If someone knocks at your door to offer testing for COVID-19, do not let them in, and call the police.[^bostonglobe]
 - If someone calls you offering you a COVID-19 test, it is a scam. Do not give them money or personal info.[^bostonglobe]
 - [List of tips](https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing) from the Fedral Trade Commission.[^ftc]
+- Scams related to upcoming stiumlus checks[^waatg]:
+    - The government will not ask to confirm your personal or banking details by email, phone or text message.
+    - The government will not demand a “processing fee” to obtain or expedite your stimulus payment.
+    - Do not click on links in email or text messages relating to the stimulus checks.
 
 ----
 
@@ -189,4 +193,7 @@ While you are staying isolated in your own house, it is also important to keep i
 
 [^ftc]: FTC, _[Avoid Coronavirus Scams](https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing)_.
 
+[^who]: WHO, _[WHO Director-General's opening remarks at the media briefing on COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---28-february-2020)_, 28 Feb 2020
+
+[^waatg]: Washington State Attorney General, _[Beware Of Scams Related To Stimulus Checks](https://www.atg.wa.gov/news/news-releases/ag-ferguson-beware-scams-related-stimulus-checks)_, 31 March 2020
 [^who]: WHO, _[WHO Director-General's opening remarks at the media briefing on COVID-19](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---28-february-2020)_, 28 Feb 2020
