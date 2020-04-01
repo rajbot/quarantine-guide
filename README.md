@@ -1,4 +1,5 @@
-# Quarantine Guide for COVID-19
+# COVID-19 Quarantine Guide
+## A guide for effective home quarantine during the COVID-19 pandemic
 
 Read it here: https://www.bitstream.io/quarantine-guide/
 
